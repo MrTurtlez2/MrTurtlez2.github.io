@@ -12,4 +12,4 @@ Known Issues
 
 Contact
 -------
-If you want to contact me for some reason, you can do so through the following:
+If you want to contact me for some reason, you can't
